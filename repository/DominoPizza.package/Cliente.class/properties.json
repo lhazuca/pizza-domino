@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DominoPizza",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nombre",
+		"nick",
+		"password",
+		"mail",
+		"direccion"
+	],
+	"name" : "Cliente",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+accessing
+noTieneIngredientes
+	^ ingredientes isEmpty.
