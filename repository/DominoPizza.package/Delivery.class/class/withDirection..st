@@ -1,3 +1,3 @@
-as yet unclassified
+instance creation
 withDirection: aDirection
 	^ self new withDirection: aDirection

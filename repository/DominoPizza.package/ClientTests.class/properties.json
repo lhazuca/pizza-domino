@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "ClientesTests",
+	"name" : "ClientTests",
 	"type" : "normal"
 }
