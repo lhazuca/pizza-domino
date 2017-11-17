@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DominoPizza",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cliente",
+		"platos",
+		"extras"
+	],
+	"name" : "Pedido",
+	"type" : "normal"
+}
