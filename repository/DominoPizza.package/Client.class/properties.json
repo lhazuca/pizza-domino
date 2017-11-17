@@ -6,12 +6,12 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"nombre",
+		"name",
 		"nick",
 		"password",
 		"mail",
-		"direccion"
+		"address"
 	],
-	"name" : "Cliente",
+	"name" : "Client",
 	"type" : "normal"
 }
