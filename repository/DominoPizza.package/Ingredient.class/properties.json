@@ -6,10 +6,10 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"nombre",
-		"distribucion",
-		"precio"
+		"name",
+		"distribution",
+		"price"
 	],
-	"name" : "Ingrediente",
+	"name" : "Ingredient",
 	"type" : "normal"
 }

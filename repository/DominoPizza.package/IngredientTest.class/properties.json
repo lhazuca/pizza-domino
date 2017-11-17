@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "IngredienteTest",
+	"name" : "IngredientTest",
 	"type" : "normal"
 }

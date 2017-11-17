@@ -1,3 +1,0 @@
-accessing
-distribucion
-	^distribucion
