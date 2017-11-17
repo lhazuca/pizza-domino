@@ -1,5 +1,5 @@
 tests
-test001UnPedidoSeCreaConUnClienteUnaListaDePlatosEIngredientesExtrasVacias
+test001UnPedidoSeCreaConUnClienteUnaListaDePlatosVacia
 	| unPedidoNuevo unCliente |
 	unCliente := Cliente
 		conNombre: 'Luca'
@@ -10,4 +10,3 @@ test001UnPedidoSeCreaConUnClienteUnaListaDePlatosEIngredientesExtrasVacias
 	unPedidoNuevo := Pedido conCliente: unCliente.
 	self assert: unPedidoNuevo cliente equals: unCliente.
 	self assert: unPedidoNuevo platos isEmpty.
-	self assert: unPedidoNuevo extras isEmpty
