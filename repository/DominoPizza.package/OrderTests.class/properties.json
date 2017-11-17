@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "PedidosTests",
+	"name" : "OrderTests",
 	"type" : "normal"
 }

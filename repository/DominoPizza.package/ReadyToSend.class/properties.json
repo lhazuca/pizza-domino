@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Shipping",
+	"category" : "DominoPizza",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ReadyToSend",
+	"type" : "normal"
+}
