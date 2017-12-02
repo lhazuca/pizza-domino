@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PizzaSize",
+	"category" : "DominoPizza",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Big",
+	"type" : "normal"
+}
