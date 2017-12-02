@@ -1,5 +1,4 @@
 initialization
 initialize
-
-	ingredientes := OrderedCollection  new.
-	pizzas := OrderedCollection  new.
+	ingredients  := OrderedCollection new.
+	pizzas := OrderedCollection new

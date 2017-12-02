@@ -6,10 +6,9 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"nombre",
-		"ingredientes",
-		"precio",
-		"precioBase"
+		"name",
+		"ingredients",
+		"basePrice"
 	],
 	"name" : "Pizza",
 	"type" : "normal"

@@ -6,8 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"ingredientes",
-		"pizzas"
+		"pizzas",
+		"ingredients"
 	],
 	"name" : "Menu",
 	"type" : "normal"

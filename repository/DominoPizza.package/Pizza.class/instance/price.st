@@ -1,3 +1,3 @@
 accessing
 price
-	^ precioBase + (ingredientes sum: [ :ing | ing price ] ifNone: [ ^0 ]).
+	^ basePrice + (ingredients sum: [ :ing | ing price ] ifNone: [ 0 ])

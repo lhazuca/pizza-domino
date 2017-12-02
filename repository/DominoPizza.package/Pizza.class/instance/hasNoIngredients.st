@@ -1,0 +1,3 @@
+accessing
+hasNoIngredients
+	^ ingredients isEmpty
