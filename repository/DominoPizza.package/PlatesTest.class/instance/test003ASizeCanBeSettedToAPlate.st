@@ -1,5 +1,5 @@
 tests
-test003APizzaCanBeSettedToAPlate
+test003ASizeCanBeSettedToAPlate
 
 	| aNewPlate aPizza aSize |
 	

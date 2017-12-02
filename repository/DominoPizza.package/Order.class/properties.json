@@ -9,7 +9,9 @@
 		"client",
 		"plates",
 		"state",
-		"shipping"
+		"shipping",
+		"creationDateTime",
+		"details"
 	],
 	"name" : "Order",
 	"type" : "normal"

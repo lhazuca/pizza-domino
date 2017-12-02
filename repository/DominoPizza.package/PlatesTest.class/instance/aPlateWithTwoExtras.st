@@ -1,4 +1,4 @@
-tests
+factory
 aPlateWithTwoExtras
 	| aPlate anIngridient aPizza aSize anotherInfgredient |
 	aPizza := Pizza conNombre: 'Muzza' conPrecio: 150.

@@ -6,7 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"direction"
+		"direction",
+		"surcharge"
 	],
 	"name" : "Delivery",
 	"type" : "normal"
